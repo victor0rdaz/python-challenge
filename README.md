@@ -21,3 +21,6 @@ Your resulting analysis should look similar to the following:
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
 
 Your final script should print the analysis to the terminal and export a text file with the results.
+
+
+received help from xpert learning assistant and chatgpt
